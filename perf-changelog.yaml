@@ -2769,3 +2769,10 @@
   description:
     - "Update TensorRT-LLM image from v1.1.0rc2.post2 (154d/124d old) to v1.3.0rc14 (latest pre-release)"
   pr-link: https://github.com/SemiAnalysisAI/InferenceX/pull/1487
+
+- config-keys:
+    - dsv4-fp4-b200-vllm
+    - dsv4-fp4-b200-vllm-mtp
+  description:
+    - "Update vLLM image from v0.20.0-cu130 (20d/18d old) to v0.21.0"
+  pr-link: https://github.com/SemiAnalysisAI/InferenceX/pull/1476
