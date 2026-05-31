@@ -3281,3 +3281,9 @@
   description:
     - "Update vLLM ROCm image from v0.21.0 to v0.22.0"
   pr-link: https://github.com/SemiAnalysisAI/InferenceX/pull/1622
+
+- config-keys:
+    - minimaxm2.5-fp4-mi355x-vllm
+  description:
+    - "Update vLLM ROCm image from v0.21.0 to v0.22.0"
+  pr-link: https://github.com/SemiAnalysisAI/InferenceX/pull/1620
